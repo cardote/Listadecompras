@@ -2,3 +2,5 @@ abacate
 mamão
 maçã
 uva
+BANANA
+MORANGO
